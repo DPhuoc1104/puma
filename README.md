@@ -1,4 +1,4 @@
-# Puma Vietnam - Official Store
+# Hướng dẫn cài đặt và sử dụng sản phẩm
 
 Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và JavaScript.
 
