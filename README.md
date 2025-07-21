@@ -37,6 +37,7 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
 
 ##  Thành viên
 
-Nguyễn Đoàn Minh Thi - 2274802010829,
-Nguyễn Đức Phước – 2374802010402,
-Lê Lý Minh Thọ - 2374802010481.
+- Nguyễn Đoàn Minh Thi - 2274802010829
+- Nguyễn Đức Phước – 2374802010402
+- Lê Lý Minh Thọ - 2374802010481
+
