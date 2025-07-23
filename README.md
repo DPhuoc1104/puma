@@ -35,7 +35,6 @@ Website bán hàng Puma được xây dựng bằng HTML, CSS (Bootstrap) và Ja
  
 - Link Figma thiết kế: ([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/BoTDLS46aeVtUKeose3mRN/Puma--Community-?node-id=0-1&t=M797fR6WhAA5aVfJ-1))
 
-- Bảng đánh giá thành viên: [Bảng đánh giá thành viên.docx](https://github.com/user-attachments/files/21352147/B.ng.danh.gia.thanh.vien.docx)
 
 ##  Thành viên
 
